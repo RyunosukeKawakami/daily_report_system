@@ -45,25 +45,3 @@
 
     </c:param>
 </c:import>
-CSSを修正して画面の見栄えを調整します。以下の内容を style.css の一番下に追記してください。
-
-table#report_list th {
-    font-weight: bold;
-    padding: 10px 2%;
-}
-
-table#report_list .report_name {
-    width: 20%;
-    padding: 10px 2%;
-}
-table#report_list .report_date {
-    width: 20%;
-}
-
-table#report_list .report_title {
-    width: 37%;
-}
-
-table#report_list .report_action {
-    width: 13%;
-}
